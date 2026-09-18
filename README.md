@@ -5,7 +5,7 @@
 
 Project: [adopt a cat](https://github.com/lowchenyi685-dotcom/YIC--2026)
 
-Project: [YIC 2026](https://canva.link/l9zmzi20r0arhx7)
+Project: [YIC 2026](https://github.com/lowchenyi685-dotcom/YIC--2026)
 ## 🛠️ Tools I Use
 
 Phyton
