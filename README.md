@@ -3,7 +3,7 @@
 
 ## 🏗️ What I'm Building
 
-Project: [adopt a cat](https://github.com/lowchenyi685-dotcom/YIC--2026)
+Project: [adopt a cat](https://gelanjie.github.io/Adopt-a-cat/)
 
 Project: [YIC 2026](https://github.com/lowchenyi685-dotcom/YIC--2026)
 ## 🛠️ Tools I Use
