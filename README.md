@@ -4,7 +4,7 @@
 ## 🏗️ What I'm Building
 
 Project: [adopt a cat](https://gelanjie.github.io/Adopt-a-cat/)
-
+Project: [YIC 2026](https://canva.link/l9zmzi20r0arhx7)
 ## 🛠️ Tools I Use
 
 Phyton
